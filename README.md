@@ -5,4 +5,4 @@ Projetos originais desenvolvidos com as minhas habilidades de programação!
 
 ### Sites
 
-  [Site - Avangers Trailer](https://github.com/EduardoKayke/Avangers_Trailer)
+[Avangers Trailer](https://github.com/EduardoKayke/Avangers_Trailer) - Habilidades usadas - HTML e CSS
