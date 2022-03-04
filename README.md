@@ -1,5 +1,7 @@
 # Projetos Originais
-Projetos originais desenvolvidos com as minhas habilidades de programação!
+Esse repositório contém os meus projetos Originais. Desenvolvido por mim, usando minha criatividade e conhecimentos adquiridos em programação!
+
+Para ver os meus rojetos dos Cursos [Clique Aqui](https://github.com/EduardoKayke/Projetos_de_Cursos)
 
 ## Lista dos queridinhos!
 
