@@ -7,11 +7,11 @@ Para ver os meus projetos dos Cursos [Clique Aqui](https://github.com/EduardoKay
 
 ### Sites
 
-- [Desenvolvedor Freelancer](https://desenvolvedorfreelancer.com) - Habilidades usadas - _**HTML e CSS**_
-- [Avangers Trailer](https://github.com/EduardoKayke/Avangers_Trailer) - Habilidades usadas - _**HTML e CSS**_
-- [Tela de Login La Vie Douce](https://github.com/EduardoKayke/Tela_de_Login_La_Vie_Douce) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Número Aleatório](https://github.com/EduardoKayke/Numero_Aleatorio) - Habilidades usadas - _**HTML, CSS e JavaScript**_
-- [Botões Animados e Alaranjados](https://github.com/EduardoKayke/Botoes_Animados_e_Alaranjados) - Habilidades usadas - _**HTML e CSS**_
+- [Desenvolvedor Freelancer](https://desenvolvedorfreelancer.com) - Trabalhando - _**HTML e CSS**_
+- [Número Aleatório](https://github.com/EduardoKayke/Numero_Aleatorio) - 21/12/2021 - _**HTML, CSS e JavaScript**_
+- [Avangers Trailer](https://github.com/EduardoKayke/Avangers_Trailer) - 10/12/2021 - _**HTML e CSS**_
+- [Tela de Login La Vie Douce](https://github.com/EduardoKayke/Tela_de_Login_La_Vie_Douce) - 27/10/2021 - _**HTML, CSS e JavaScript**_
+- [Botões Animados e Alaranjados](https://github.com/EduardoKayke/Botoes_Animados_e_Alaranjados) - 19/10/2021 - _**HTML e CSS**_
 
 ---
 
