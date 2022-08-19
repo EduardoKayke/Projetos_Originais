@@ -6,7 +6,7 @@ Esse repositório contém os meus projetos Originais. Desenvolvido por mim, usan
 
 ### Sites
 
-- [Desenvolvedor Freelancer](https://desenvolvedorfreelancer.com) - Trabalhando - _**HTML e CSS**_
+- [Desenvolvedor Freelancer](https://github.com/EduardoKayke/Projeto_Desenvolvedor_Freelancer) - Trabalhando - _**HTML e CSS**_
 
 ---
 
