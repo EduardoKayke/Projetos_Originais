@@ -6,7 +6,9 @@ Esse repositório contém os meus projetos Originais. Desenvolvido por mim, usan
 
 ### Sites
 
+- [Emprestimo de Itens](https://github.com/EduardoKayke/Projeto_Emprestimo_de_Itens) - Trabalhando - _**HTML, CSS, PHP e MySQL**_
 - [Desenvolvedor Freelancer](https://github.com/EduardoKayke/Projeto_Desenvolvedor_Freelancer) - Trabalhando - _**HTML e CSS**_
+- [Zombie Dice](https://github.com/EduardoKayke/Projeto_Zombie_Dice) - Trabalhando - _**Python**_
 
 ---
 
